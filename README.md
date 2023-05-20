@@ -6,7 +6,8 @@ Proyecto Software Gestor de Reclamos "RECLAMAPE"
 Presentación:
 Este es un proyecto elaborado por el Grupo de Trabajo 01 del curso Técnicas de Programación Orientada a Objetos
 de la Universidad Privada del Norte. Este grupo está compuesto por Luis Gomez, Daniel Paredes, Luz Huarcaya, Ronaldo Ninalaya
-y Bryan Lluncor,  quienes se darán la tarea de diseñar y programar un software que solucionará una problemática (aquí va la problemática :v) dentro de su comunidad.
+y Bryan Lluncor,  quienes se darán la tarea de diseñar y programar un software que solucionará la problemática de falta de 
+mantenimiento y mejora a la infraestructura de las calles y avenidas en San Juan de Lurigancho dentro de su comunidad.
 
 Introducción:
 Un software gestor de reclamos, también conocido como sistema de gestión de reclamos o sistema de gestión de incidencias,
