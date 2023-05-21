@@ -17,3 +17,15 @@ seguimiento y resolver reclamos de clientes, proveedores u otros usuarios. Gener
 donde se pueden ingresar y categorizar reclamos, asignar tareas y responsabilidades a los miembros del equipo, realizar
 seguimiento del estado de los reclamos y generar informes para análisis y toma de decisiones. Para ello, tendremos en cuenta
 los siguientes requerimientos:
+
+Uso:
+A continuación, se detallarán las principales funciones y la forma correcta de utilizar el software de reclamos.
+I. A nivel de usuario final:
+•	Registro de reclamos:
+1.	En la página principal de Reclamos, haz clic en “Nuevo”.
+2.	Completa los campos solicitados “Tipo, Título, Descripción”.
+3.	Haz clic en “Guardar” para registrar el reclamo.
+•	Seguimiento de reclamos:
+1.	En la página principal de Reclamos, haz clic en “Buscar”.
+2.	Selecciona el reclamo a editar y haz clic en “Modificar”.
+3.	Una vez finalizada la edición, haz clic en “Guardar”.
