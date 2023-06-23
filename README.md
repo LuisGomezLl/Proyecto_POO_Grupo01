@@ -17,19 +17,18 @@ seguimiento y resolver reclamos de clientes, proveedores u otros usuarios. Gener
 donde se pueden ingresar y categorizar reclamos, asignar tareas y responsabilidades a los miembros del equipo, realizar
 seguimiento del estado de los reclamos y generar informes para análisis y toma de decisiones. Para ello, tendremos en cuenta
 los siguientes requerimientos:
-• Requerimientos de Funcionalidad
 
+• Requerimientos de Funcionalidad
 1. Correcto registro de usuario
 2. Login
 3. Contraseña segura
 4. Opción principal para iniciar un reclamo
 5. Notificaciones
-6. Notificaciones
+6. Mostrar reclamo
 7. Historial de reclamos
 8. Reporte de reclamos para el usuario del estado
 
 • Requerimientos de Usabilidad
-
 1. Fácil manejo del programa
 2. Interfaz de usuario
 3. Información comprensible
@@ -65,11 +64,9 @@ I. A nivel de usuario final:
 2.	Completa los campos solicitados “Tipo, Título, Descripción”.
 3.	Haz clic en “Guardar” para registrar el reclamo.
 •	Seguimiento de reclamos:
-1.	En la página principal de Reclamos, haz clic en “Buscar”.
-2.	Selecciona el reclamo a editar y haz clic en “Modificar”.
-3.	Una vez finalizada la edición, haz clic en “Guardar”.
-
-   
+1.	En la página principal de Reclamos, haz clic en “Notificaciones”.
+2.	Selecciona el reclamo a validar y haz clic en “Mostrar”.
+ 
 Licencias:
 Este proyecto cuenta con licencia conforme a los términos de la licencia MIT.
 
